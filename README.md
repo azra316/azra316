@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=azra316&color=ff69b4)
 
 - 🎯 Focusing on Frontend Development. 
-- 🌱 Currently diving deep into HTML, CSS, and JavaScript to master my frontend craft. 🌟
+- 🌱 Currently diving deep into HTML, CSS, and JavaScript to master my frontend craft. 
 - 🚀 I’m passionate about exploring new technologies and growing my skillset.
 - 📚 I enjoy reading tech documentation to unlock deeper insights.
 - 🎨 2024 Goals: Build visually stunning frontend projects and enhance my skills.
