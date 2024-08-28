@@ -36,4 +36,3 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AZRA....;Nice+to+meet+you!&center=true&size=30">
